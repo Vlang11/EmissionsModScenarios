@@ -3,7 +3,9 @@ July 2023 evaluating of a baseline and two sensitivity scenarios
 WRFOUT_Default_LOCUSHDVMOD_Renewal_CTM.ipynb  visualizes the differences in meteorological vars
 July2023_Renewal_NewBaseline-shareable.ipynb   visualizes the differences in pollutant species 
 Emission_Validation.ipynb visualizes the emissions (emis_mole files + inln files converted to 2d) 
-Baseline_LOCUSHDVSpatialMod_FirstThreeDaysConcentrations.ipynb  compares hourly simulated concentrations of NO2, SO2, O3, PM2.5 and PM25_EC. It compares domain averages, hourly differences, and subsets Gary IN to isolate concnetrations from EGUs to determine if differences are driven by emission inputs or changing meteorolgical fields.
+Baseline_LOCUSHDVSpatialMod_FirstThreeDaysConcentrations.ipynb  compares hourly simulated concentrations of NO2, SO2, O3, PM2.5 and PM25_EC. 
+   It compares domain averages, hourly differences, and subsets Gary IN to isolate concnetrations from EGUs to determine if differences are driven
+   by emission inputs or changing meteorolgical fields.
 
 ModelingScenarios.png  Summarizes the three scenarios and emission modifications incorporated 
     Default dataset is the 2022v1 Emission Modeling Platform from the EPA
