@@ -5,14 +5,14 @@ July2023_Renewal_NewBaseline-shareable.ipynb   visualizes the differences in pol
 Emission_Validation.ipynb visualizes the emissions (emis_mole files + inln files converted to 2d) 
 
 ModelingScenarios.png  Summarizes the three scenarios and emission modifications incorporated 
-              Default dataset is the 2022v1 Emission Modeling Platform from the EPA
-              LOCUS + HDV Mod uses (1) telemetry data to modify the magnitude and spatial footprint of MHDV idling within Illinois and
-                                   (2) uses total combination truck AADT to spatially distribute combination truck on-road emissions
-                                   Emission modifications for idling are within Illinois, on-road combination truck modifications are within the whole domain
-              Renewal used MOVES to generate new emission factors within Cook and collar counties to represent an accelerated turn over of HDVs
-                                    where all pre-2010 model year vehicles are replaced with model year 2022.
-                                    Emission modifications are only within the Cook and collar counties.
+    Default dataset is the 2022v1 Emission Modeling Platform from the EPA
+    LOCUS + HDV Mod uses (1) telemetry data to modify the magnitude and spatial footprint of MHDV idling within Illinois and
+                         (2) uses total combination truck AADT to spatially distribute combination truck on-road emissions
+                         Emission modifications for idling are within Illinois, on-road combination truck modifications are within the whole domain
+    Renewal used MOVES to generate new emission factors within Cook and collar counties to represent an accelerated turn over of HDVs
+                         where all pre-2010 model year vehicles are replaced with model year 2022.
+                         Emission modifications are only within the Cook and collar counties.
 
 ModelingScenarios_EmissionLevers.png Visualization of the emission modifications to provide a sense of where emissions are changing, 
-              breaking down each step between modifying idling, combination truck on-road emissions, then both modifications together. 
+    breaking down each step between modifying idling, combination truck on-road emissions, then both modifications together. 
               
