@@ -1,7 +1,8 @@
 July 2023 evaluating of a baseline and two sensitivity scenarios 
 
-WRFOUT_Default_LOCUSHDVMOD_Renewal_CTM  visualizes the differences in meteorological vars
-July2023_Renewal_NewBaseline-shareable   visualizes the differences in pollutant species 
+WRFOUT_Default_LOCUSHDVMOD_Renewal_CTM.ipynb  visualizes the differences in meteorological vars
+July2023_Renewal_NewBaseline-shareable.ipynb   visualizes the differences in pollutant species 
+Emission_Validation.ipynb visualizes the emissions (emis_mole files + inln files converted to 2d) 
 
 ModelingScenarios.png  Summarizes the three scenarios and emission modifications incorporated 
                         Default dataset is the 2022v1 Emission Modeling Platform from the EPA
